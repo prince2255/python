@@ -32,8 +32,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mark">
-    <configuration name="elif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.nested_for_loop">
+    <configuration name="even_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/elif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/even_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nested_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/ifelse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/nested_for_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="large" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="odd_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/large.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/odd_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mark" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prime_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/mark.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/prime_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="relational operator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="user_choice_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators/relational operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/user_choice_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mark" />
-        <item itemvalue="Python.elif" />
-        <item itemvalue="Python.large" />
-        <item itemvalue="Python.ifelse" />
-        <item itemvalue="Python.relational operator" />
+        <item itemvalue="Python.nested_for_loop" />
+        <item itemvalue="Python.prime_num" />
+        <item itemvalue="Python.user_choice_num" />
+        <item itemvalue="Python.odd_num" />
+        <item itemvalue="Python.even_num" />
       </list>
     </recent_temporary>
   </component>
