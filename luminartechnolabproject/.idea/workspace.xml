@@ -17,7 +17,7 @@
   </component>
   <component name="ProjectId" id="1WC4ZpAX3AuqISgSp7ywzdqkcCU" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/python/languagefundamentals/first_program.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RunDashboard">
@@ -32,8 +32,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nested_for_loop">
-    <configuration name="even_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.most_rpeat">
+    <configuration name="add=numb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making/collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/even_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/collection/add=numb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nested_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_rcsve_ch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/nested_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/first_rcsve_ch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odd_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="midlimit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making/collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/odd_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/collection/midlimit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="most_rpeat" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/prime_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/most_rpeat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="user_choice_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/user_choice_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/word_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nested_for_loop" />
-        <item itemvalue="Python.prime_num" />
-        <item itemvalue="Python.user_choice_num" />
-        <item itemvalue="Python.odd_num" />
-        <item itemvalue="Python.even_num" />
+        <item itemvalue="Python.most_rpeat" />
+        <item itemvalue="Python.first_rcsve_ch" />
+        <item itemvalue="Python.word_count" />
+        <item itemvalue="Python.add=numb" />
+        <item itemvalue="Python.midlimit" />
       </list>
     </recent_temporary>
   </component>
