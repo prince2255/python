@@ -10,7 +10,7 @@
   </component>
   <component name="ProjectId" id="1WVfkZSGPJRS8ATr8d5WbUPGFkJ" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -23,6 +23,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />

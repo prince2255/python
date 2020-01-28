@@ -32,29 +32,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.most_rpeat">
-    <configuration name="add=numb" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="luminartechnolabproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making/collection" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/collection/add=numb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="first_rcsve_ch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.text_count">
+    <configuration name="mailed_age_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/first_rcsve_ch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/mailed_age_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="midlimit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicision_making/collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicision_making/collection/midlimit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="most_rpeat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="openfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luminartechnolabproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +83,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/most_rpeat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/openfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luminartechnolabproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/text_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.most_rpeat" />
-        <item itemvalue="Python.first_rcsve_ch" />
+        <item itemvalue="Python.text_count" />
+        <item itemvalue="Python.mailed_age_count" />
         <item itemvalue="Python.word_count" />
-        <item itemvalue="Python.add=numb" />
-        <item itemvalue="Python.midlimit" />
+        <item itemvalue="Python.numbers" />
+        <item itemvalue="Python.openfile" />
       </list>
     </recent_temporary>
   </component>
